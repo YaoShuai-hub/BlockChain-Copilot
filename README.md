@@ -65,6 +65,23 @@ Add to your `claude_desktop_config.json`:
 }
 ```
 
+### Running Manually (Web UI)
+To run the full web assistant locally:
+
+1. **Start Backend (API)**:
+   ```bash
+   uv run python src/server.py
+   ```
+   *The server will start on `http://localhost:8000`.*
+
+2. **Start Frontend (UI)**:
+   ```bash
+   cd frontend
+   npm install
+   npm run dev
+   ```
+   *The web interface will be available at `http://localhost:3000`.*
+
 ### Tools Available
 - `get_token_price(symbol)`: Check price of TRX, BTT, etc.
 - `get_wallet_balance(address)`: Show portfolio.
