@@ -1,0 +1,16 @@
+
+
+---
+
+🔧 **正在执行 Skills**：
+
+• batch-transfer (`batch-transfer`)
+保存
+
+<<<JSON
+{"txID": "8898609072c51cc5f4702f06b30b84e6539c1517ede93b739bb6ac5605e25d6b", "raw_data": {"contract": [{"parameter": {"value": {"amount": 1000000, "owner_address": "414014f2d16cd8d53b1c34e010c00d37d8d2523b1f", "to_address": "417d2c0ee0528b7193a0208a3a48c30fc600bf84df"}, "type_url": "type.googleapis.com/protocol.TransferContract"}, "type": "TransferContract"}], "ref_block_bytes": "33be", "ref_block_hash": "4934523e0456b02f", "expiration": 1770551395392, "timestamp": 1770551335392}, "raw_data_hex": "0a0233be22084934523e0456b02f40c088d9e8c3335a67080112630a2d747970652e676f6f676c65617069732e636f6d2f70726f746f636f6c2e5472616e73666572436f6e747261637412320a15414014f2d16cd8d53b1c34e010c00d37d8d2523b1f1215417d2c0ee0528b7193a0208a3a48c30fc600bf84df18c0843d70e0b3d5e8c333"}
+JSON>>>
+
+<<<JSON
+{"txID": "20ca10d8b5abe0fa629843581ec487651b365df3918c0b5244d66d96981bdc7d", "raw_data": {"contract": [{"parameter": {"value": {"amount": 500000, "owner_address": "414014f2d16cd8d53b1c34e010c00d37d8d2523b1f", "to_address": "414014f2d16cd8d53b1c34e010c00d37d8d2523b1f"}, "type_url": "type.googleapis.com/protocol.TransferContract"}, "type": "TransferContract"}], "ref_block_bytes": "33bf", "ref_block_hash": "356789e527fa9585", "expiration": 1770551398091, "timestamp": 1770551338091}, "raw_data_hex": "0a0233bf2208356789e527fa958540cb9dd9e8c3335a67080112630a2d747970652e676f6f676c65617069732e636f6d2f70726f746f636f6c2e5472616e73666572436f6e747261637412320a15414014f2d16cd8d53b1c34e010c00d37d8d2523b1f1215414014f2d16cd8d53b1c34e010c00d37d8d2523b1f18a0c21e70ebc8d5e8c333"}
+JSON>>>

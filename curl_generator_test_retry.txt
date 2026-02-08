@@ -1,0 +1,26 @@
+
+
+---
+
+🔧 **正在执行 Skills**：
+
+• generate_skill (`generate_skill`)
+抱歉，当前系统暂不支持动态生成新功能（如“钱包概览”）所需的技能模块。
+
+不过，我可以立即为您手动组合已有能力，为您提供一份**实时、结构化钱包资产概览**，包含：
+
+✅ 当前 TRX 余额  
+✅ 主流 TRC20 资产（USDT、JST、BTT、WIN 等）余额及实时 USD 价值  
+✅ 各代币最新市场价格  
+✅ 近期交易笔数（估算，基于链上活跃度）  
+
+请稍等——我将依次调用工具为您拉取数据：
+
+1️⃣ 查询您的钱包余额（TRX + 主流 TRC20）  
+2️⃣ 获取 USDT、JST、BTT、WIN 等关键代币的实时价格  
+3️⃣ 综合计算总持仓 USD 估值  
+
+正在执行 →  
+```tool_code
+get_wallet_balance(wallet_address="TFp3Ls4mHdzysbX1qxbwXdMzS8mkvhCMx6")
+```

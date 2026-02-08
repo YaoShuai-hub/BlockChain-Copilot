@@ -1,0 +1,73 @@
+{
+  "timestamp": "2026-02-08T04:45:05.557741",
+  "total_skills": 5,
+  "passed": 0,
+  "failed": 5,
+  "skills": {
+    "token-price": {
+      "total": 1,
+      "passed": 0,
+      "failed": 1,
+      "tests": [
+        {
+          "name": "Import check",
+          "passed": false,
+          "message": "Cannot import skill: No module named 'skills.token_price'",
+          "details": null
+        }
+      ]
+    },
+    "wallet-balance": {
+      "total": 1,
+      "passed": 0,
+      "failed": 1,
+      "tests": [
+        {
+          "name": "Import check",
+          "passed": false,
+          "message": "Cannot import skill: No module named 'skills.wallet_balance'",
+          "details": null
+        }
+      ]
+    },
+    "energy-rental": {
+      "total": 1,
+      "passed": 0,
+      "failed": 1,
+      "tests": [
+        {
+          "name": "Import check",
+          "passed": false,
+          "message": "Cannot import skill: No module named 'skills.energy_rental'",
+          "details": null
+        }
+      ]
+    },
+    "address-risk-checker": {
+      "total": 1,
+      "passed": 0,
+      "failed": 1,
+      "tests": [
+        {
+          "name": "Import check",
+          "passed": false,
+          "message": "Cannot import skill: No module named 'skills.address_risk_checker'",
+          "details": null
+        }
+      ]
+    },
+    "sr-ranking": {
+      "total": 1,
+      "passed": 0,
+      "failed": 1,
+      "tests": [
+        {
+          "name": "Import check",
+          "passed": false,
+          "message": "Cannot import skill: No module named 'skills.sr_ranking'",
+          "details": null
+        }
+      ]
+    }
+  }
+}
